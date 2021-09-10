@@ -25,7 +25,7 @@ pubspec.yaml
 signin.iml
 .flutter-plugins
 .flutter-plugins-dependencies
-lib/generated_plugin_registrant.dart
+#lib/generated_plugin_registrant.dart
 android/
 ios/
 linux/
